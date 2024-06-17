@@ -1,2 +1,2 @@
 # Demopart1
- Chargement en local
+ Chargement en local de Github depuis mon compte
